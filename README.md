@@ -60,7 +60,7 @@ JavaScript
 
 
 
-\*\*Live Site:\*\* \[Click here to visit Portfolio](https://fejoejs.github.io/SCT\_WD\_1)
+\*\*Live Site:\*\* \[Click here to visit Portfolio](https://fejoejs.github.io/SCT_WD_1)
 
 
 
