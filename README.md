@@ -56,11 +56,11 @@ JavaScript
 
 
 
-\## 🚀 How to Access  
-
-\*\*Live Site:\*\* \[Portfolio](https://fejoejs.github.io/SCT\_WD\_1/)
+\## 🚀 How to Access
 
 
+
+\*\*Live Site:\*\* \[Click here to visit Portfolio](https://fejoejs.github.io/SCT\_WD\_1)
 
 
 
