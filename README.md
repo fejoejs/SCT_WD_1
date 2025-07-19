@@ -1,14 +1,14 @@
 # SCT\_WD\_1
 
-\# 🌍:SkillCraft Internship Task
+# 🌍:SkillCraft Internship Task
 
-\## 📝 Overview
+## 📝 Overview
 
 This project is a personal Portfolio Website designed and developed to showcase my skills, projects, and professional journey as a Frontend Developer. The website features clean UI, interactive elements, and responsive design, making it accessible across devices.
 
 
 
-\## ✨ Features
+## ✨ Features
 
 🏠 Home Section – Intro with animated gradient name and role
 
@@ -42,7 +42,7 @@ This project is a personal Portfolio Website designed and developed to showcase 
 
 
 
-\## 🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 HTML
 
@@ -56,11 +56,10 @@ JavaScript
 
 
 
-\## 🚀 How to Access
+## 🚀 How to Access
 
 
-
-\*\*🔗 \[Click here to visit Portfolio](https://fejoejs.github.io/SCT\_WD\_1)\*\*
+🔗 [Click here to visit Portfolio](https://fejoejs.github.io/SCT_WD_1)
 
 
 
